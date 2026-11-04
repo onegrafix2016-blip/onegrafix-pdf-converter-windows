@@ -1,0 +1,5 @@
+Third-party components used by this project include PySide6/Qt, PyMuPDF, pdfplumber,
+python-docx, openpyxl, Pillow, pytesseract, Tesseract OCR, LibreOffice, PyInstaller,
+and Inno Setup. Review each component's current licence and redistribution terms
+before bundling or commercial distribution. Do not assume every component may be
+redistributed under identical terms.
