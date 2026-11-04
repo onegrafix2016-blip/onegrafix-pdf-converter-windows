@@ -62,7 +62,6 @@ jobs:
             --collect-all fitz `
             --collect-all pdfplumber `
             --collect-all pypdfium2 `
-            --collect-all PySide6 `
             --collect-all pytesseract `
             app.py
           if (!(Test-Path "dist\OneGrafix PDF Converter\OneGrafix PDF Converter.exe")) {
